@@ -1,0 +1,25 @@
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\DesktopClock\bin\Debug\DesktopClock.exe.config
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\DesktopClock\bin\Debug\DesktopClock.exe
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\DesktopClock\bin\Debug\DesktopClock.pdb
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\DesktopClock\bin\Debug\DesktopClock.xml
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\DesktopClock\obj\Debug\DesktopClock.vbprojAssemblyReference.cache
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\DesktopClock\obj\Debug\DesktopClock.Form1.resources
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\DesktopClock\obj\Debug\DesktopClock.Resources.resources
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\DesktopClock\obj\Debug\DesktopClock.vbproj.GenerateResource.cache
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\DesktopClock\obj\Debug\DesktopClock.vbproj.CoreCompileInputs.cache
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\DesktopClock\obj\Debug\DesktopClock.exe
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\DesktopClock\obj\Debug\DesktopClock.xml
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\DesktopClock\obj\Debug\DesktopClock.pdb
+E:\Work\Code\VBN\DesktopClock4.0\DesktopClock\DesktopClock\bin\Debug\DesktopClock.exe.config
+E:\Work\Code\VBN\DesktopClock4.0\DesktopClock\DesktopClock\bin\Debug\DesktopClock.exe
+E:\Work\Code\VBN\DesktopClock4.0\DesktopClock\DesktopClock\bin\Debug\DesktopClock.pdb
+E:\Work\Code\VBN\DesktopClock4.0\DesktopClock\DesktopClock\bin\Debug\DesktopClock.xml
+E:\Work\Code\VBN\DesktopClock4.0\DesktopClock\DesktopClock\obj\Debug\DesktopClock.FormMain.resources
+E:\Work\Code\VBN\DesktopClock4.0\DesktopClock\DesktopClock\obj\Debug\DesktopClock.FormSetting.resources
+E:\Work\Code\VBN\DesktopClock4.0\DesktopClock\DesktopClock\obj\Debug\DesktopClock.Resources.resources
+E:\Work\Code\VBN\DesktopClock4.0\DesktopClock\DesktopClock\obj\Debug\DesktopClock.vbproj.GenerateResource.cache
+E:\Work\Code\VBN\DesktopClock4.0\DesktopClock\DesktopClock\obj\Debug\DesktopClock.vbproj.CoreCompileInputs.cache
+E:\Work\Code\VBN\DesktopClock4.0\DesktopClock\DesktopClock\obj\Debug\DesktopClock.exe
+E:\Work\Code\VBN\DesktopClock4.0\DesktopClock\DesktopClock\obj\Debug\DesktopClock.xml
+E:\Work\Code\VBN\DesktopClock4.0\DesktopClock\DesktopClock\obj\Debug\DesktopClock.pdb
+E:\Work\Code\VBN\DesktopClock4.0\DesktopClock\DesktopClock\obj\Debug\DesktopClock.vbprojAssemblyReference.cache
